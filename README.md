@@ -7,3 +7,5 @@ https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023?select=
 Requerimientos python 3.9+, luego los paquetes se instalan vía pip:
 
 `pip install -r requirements.txt`
+
+Para ver el notebook en VSCode este instalará unas dependencias, luego de eso, debería usarse sin problemas. 
