@@ -1,7 +1,0 @@
-duckdb
-pandas
-pyarrow
-jupysql
-duckdb-engine
-matplotlib
-notebook
